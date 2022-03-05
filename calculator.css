@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(17, 17, 17);
+}
+
+.calc {
+    text-align: center;
+    padding-top: 6vh;
+}
+
+h1 {
+    font-size: 6vh;
+    color: lawngreen;
+}
+
+.main {
+    display: inline-block;
+    border-radius: 20px 5px;
+    background-color: rgb(148, 144, 144);
+    padding: 10px;
+}
+
+input {
+    font-size: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+table {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 20px;
+    border-radius: 5px;
+    width: 90px;
+    height: 60px;
+}
